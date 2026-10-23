@@ -14,7 +14,7 @@ A full-stack web application built with **Spring Boot 3**, **Spring Data JPA**, 
 - [Application Routes](#-application-routes)
 - [Database Schema](#-database-schema)
 - [Project Structure](#-project-structure)
-- [Author & License](#-author)
+- [Author](#-author)
 
 ---
 
@@ -202,4 +202,3 @@ VehicleRentalManagement/
 
 - **Developer**: Shreya Mittal
 - **GitHub**: [@MittalShreya16](https://github.com/MittalShreya16)
-- **License**: This project is licensed under the MIT License - feel free to use and modify for educational or commercial purposes.
