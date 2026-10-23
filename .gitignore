@@ -1,0 +1,23 @@
+# Maven build target directory
+**/target/
+target/
+*.class
+
+# Sensitive credentials
+**/src/main/resources/application.properties
+
+# Logs
+*.log
+logs/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
